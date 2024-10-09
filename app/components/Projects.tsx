@@ -4,7 +4,7 @@ export const Projects = () => {
     return(
         <div>
             <Section>
-                <h2>Projects</h2>
+                <h2 className="text-3xl">Projects</h2>
             </Section>
         </div>
     )
